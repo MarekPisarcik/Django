@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: rgba(95, 148, 95, 0.568);
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: brown;
+}
+
+footer {
+    background-color: rgb(40, 83, 46);
+}
+
+nav a:hover {
+        color: white;
+        text-decoration: underline;
+}
+
+.special a:hover {
+    color: rgb(63, 34, 34);
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
